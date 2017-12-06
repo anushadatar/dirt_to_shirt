@@ -4,14 +4,12 @@ Website for Olin College of Engineering "From Dirt to Shirt" Class
 Want to help?
 I'm at anusha@students.olin.edu. the things left to do are:
 
-
-- Make thumbnail images out of all the images anna sent. Or just dimension
-them nicely. I don't actually know what I'm doing, they just need to be small
-- Load content onto the about.html page. There's a lot of it
+- This looks pretty bad on phones. There's probably some magic you can do with the viewport to make it less bag
+- Putting some sort of logo in the corner would not be a bad idea
+- Could be nice to make padding consistent
 - An image gallery or slideshow could be really nice, maybe at the top of the 
-about page if it's too busy on the homepage
-- Add all of the thumbnail images to an /images directory where each is the
-  name of the garment
-- Add all of the content as html pages to a /content directory where each is 
-  the name of the garment. Include a navbar and title at minimum
+about page if it's too busy on the homepage.
+- Speaking of images, it would be nice to do something nice with all the pictures from various class activities, shoving them in a slideshow is easy.
+- Once everyone has turned in their stories, load all of the content
+- Make the content pages look pretty and deliberate
 

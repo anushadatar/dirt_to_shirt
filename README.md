@@ -1,5 +1,5 @@
-# dirt_to_shirt
-Website for Olin College of Engineering "From Dirt to Shirt" Class
+# Dirt to Shirt
+From Dirt to Shirt (Fall 2017) final website prototype. This repository is no longer being updated: the new project can be found [here](thethriftshopproject.github.io).
 
-Want to help?
-I'm at anusha@students.olin.edu.
+# Summary
+From Dirt to Shirt is an AHS (Arts, Humanities, and the Social Sciences) Foundation course offered to first-year students at Olin College. This course employs a variety of methods, from readings to field trips and guest lecturers, to provide students with a diverse perspective of the global apparel industry. For the final for the class, students went to a local thrift store, purchased an item, wrote a fictional story about the item, preserved a small piece from the item in resin, and turned the garment itself into a bag. This set: the story, bag, and preserved item on a wooden stand (complete with flash drive containing all of the stories) became an item sold at an art show to benefit the thrift store. This website was a quick creation (about 2 hours of work) to help promote these items and share their unique stories and messages. To access the site, go [here](anushadatar.github.io/dirt_to_shirt).
